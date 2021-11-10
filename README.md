@@ -21,7 +21,7 @@ cd Flask-Docker-App
 python3 -m venv venv
 
 ```
-2 .Activate the environment
+### 2 .Activate the environment
           
 **Windows** 
 
