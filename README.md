@@ -82,7 +82,7 @@ or
 `pip install Flask`
 
 ### 4. Create the required files
-Create two files;app.py and Dockerfile
+Create two files; **app.py** and **Dockerfile**
 
 `touch app.py Dockerfile`
 
