@@ -1,5 +1,4 @@
 # Flask-Docker-App
-# User-Authentication-in-Flask
 
 ## Set up & Installation.
 
@@ -8,8 +7,8 @@
 **Windows**
           
 ```bash
-git clone https://github.com/Dev-Elie/User-Authentication-in-Flask.git
-cd User-Authentication-in-Flask
+git clone https://github.com/Dev-Elie/Flask-Docker-App.git
+cd Flask-Docker-App
 py -3 -m venv venv
 
 ```
@@ -17,8 +16,8 @@ py -3 -m venv venv
 **macOS/Linux**
           
 ```bash
-git clone https://github.com/Dev-Elie/User-Authentication-in-Flask.git
-cd User-Authentication-in-Flask
+git clone https://github.com/Dev-Elie/Flask-Docker-App.git
+cd Flask-Docker-App
 python3 -m venv venv
 
 ```
@@ -49,7 +48,7 @@ pip install -r requirements.txt
 
 ## Create a new application from scratch
 
-Create a directory with a name "Flask-Docker-App"
+Create a directory with a name **"Flask-Docker-App"**
 
 Navigate to the newly created directory
 
@@ -61,11 +60,13 @@ Create a virtual environment
 
 `py -3 -m venv venv`
 
+<br>
+
 **macOS/Linux**
 
 `python3 -m venv venv`
 
-2 .Activate the environment
+2. Activate the environment
           
 **Windows** 
 
@@ -83,6 +84,7 @@ or
 
 ### 4. Create the required files
 Create two files;app.py and Dockerfile
+
 `touch app.py Dockerfile`
 
 
