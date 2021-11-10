@@ -33,6 +33,7 @@ python3 -m venv venv
 or
 ```source venv/bin/activate```
 
+
 ### 3 .Install the requirements
 
 Applies for windows/macOS/Linux
