@@ -60,9 +60,7 @@ pip install -r requirements.txt
 **Windows**
 
 `py -3 -m venv venv`
-
 <br>
-
 **macOS/Linux**
 
 `python3 -m venv venv`
