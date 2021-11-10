@@ -48,13 +48,14 @@ pip install -r requirements.txt
 
 ## Create a new application from scratch
 
-Create a directory with a name **"Flask-Docker-App"**
+### 1. Create a directory with a name **"Flask-Docker-App"**
+`mkdir Flask-Docker-App`
 
-Navigate to the newly created directory
+### 2. Navigate to the newly created directory
 
 `cd Flask-Docker-App`
 
-Create a virtual environment
+### 3. Create a virtual environment
 
 **Windows**
 
@@ -66,7 +67,7 @@ Create a virtual environment
 
 `python3 -m venv venv`
 
-2. Activate the environment
+### 4. Activate the environment
           
 **Windows** 
 
