@@ -58,9 +58,11 @@ Navigate to the newly created directory
 Create a virtual environment
 
 **Windows**
+
 `py -3 -m venv venv`
 
 **macOS/Linux**
+
 `python3 -m venv venv`
 
 2 .Activate the environment
