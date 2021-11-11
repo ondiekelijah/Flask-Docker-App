@@ -88,7 +88,7 @@ Create two files; **app.py** and **Dockerfile**
 
 `touch app.py Dockerfile`
 
-## Congratulations! You can now proceed with the article on Dockerizing a Flask app.
+## Congratulations! You can now proceed with the article on Dockerizing a Flask app [here](https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/).
 
 </br>
 <div align="center"><h1>Follow me on Twitter</h1></div>
